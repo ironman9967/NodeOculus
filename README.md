@@ -1,11 +1,14 @@
 <h1>NodeOculus</h1>
 - <a href="https://github.com/ironman9967/NodeOculus#description">Description</a><br>
 - <a href="https://github.com/ironman9967/NodeOculus#restrictions">Restrictions</a><br>
+- <a href="https://github.com/ironman9967/NodeOculus#prerequisite">Prerequisite</a><br>
 - <a href="https://github.com/ironman9967/NodeOculus#license">License</a><br>
 <h2>Description:</h2>
 A NodeJS addon/port of the Oculus Rift SDK.
 <h2>Restrictions:</h2>
 1. Linux based OS<br>
+<h2>Prerequisite:</h2>
+1. node-gyp installed globally: <code>npm install -g node-gyp</code><br>
 
 <h2>License:</h2>
 Please refer to the 'OCULUS VR LICENSE.txt' for the Oculus Rift SDK license information.
