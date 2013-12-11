@@ -1,0 +1,10 @@
+
+.idea/
+
+NodeSixense.iws
+
+test*.js
+
+build/
+
+node_modules/

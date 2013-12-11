@@ -8,9 +8,9 @@ A NodeJS addon/port of the Oculus Rift SDK.
 1. Linux based OS<br>
 
 <h2>License:</h2>
-Please refer to the 'OCULUS VR LICENSE.txt' for the Oculus SDK license information.
+Please refer to the 'OCULUS VR LICENSE.txt' for the Oculus Rift SDK license information.
 
-The JS port and Nodejs addon portions are licensed under: 
+The JS port and NodeJS addon portions are licensed under:
 
 The MIT License (MIT)
 
