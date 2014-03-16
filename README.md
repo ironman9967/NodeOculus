@@ -11,7 +11,7 @@ A NodeJS addon/port of the Oculus Rift SDK.
 1. node-gyp installed globally: <code>npm install -g node-gyp</code><br>
 
 <h2>License:</h2>
-Please refer to the 'OCULUS VR LICENSE.txt' for the Oculus Rift SDK license information.
+The Oculus Rift SDK is licensed under Oculus VR, Inc. Software Development Kit License Agreement which can be found here: https://developer.oculusvr.com/license
 
 The JS port and NodeJS addon portions are licensed under:
 
